@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.6.1
+Type=Application
+Terminal=false
+Exec=/usr/bin/vasisualy
+Name=Vasisualy
+Name[ru]=Васисуалий
+GenericName=Simple russian voice assistant
+GenericName[ru]=Простой русский голосовой ассистент
+Icon=/usr/share/vasisualy/ui/vas.png
+Categories=Internet;Utilities;System;
+Keywords=Voice;Assistant;Голос;Ассистент;
