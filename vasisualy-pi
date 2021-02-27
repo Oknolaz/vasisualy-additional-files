@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /usr/share/vasisualy-pi/
+python3 main.py
